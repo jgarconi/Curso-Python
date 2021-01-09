@@ -6,7 +6,7 @@ Arquivos: [Fundamento](https://github.com/jgarconi/CursoPython/blob/master/secao
 
 Anotações:
 * Replicar linhas no pycharm: Ctrl + D
-* Abrir e fechar comentáarios com aspas simples ou duplas servem para
+* Abrir e fechar comentários com aspas simples ou duplas servem para
   documentação, mas também funcionam como comentários
 
 ---------------------------------------------------------------------
@@ -52,14 +52,14 @@ Arquivos: [Fundamento](https://github.com/jgarconi/CursoPython/blob/master/secao
 
 Anotações:
 * Tipos de operadores: 
-   + (+)  : adição
-   + (-)  : subtração
-   + (*)  : multiplicação
-   + (/)  : divisão com resultado em float
-   + (//) : divisão com resultado em int
-   + (%)  : divisão em módulo (retorna o resto)
-   + (**) : exponenciação
-   + parêntesis : altera a precedência das operações
+   + (+): adição
+   + (-): subtração
+   + (*): multiplicação
+   + (/): divisão com resultado em float
+   + (//): divisão com resultado em int
+   + (%): divisão em módulo (retorna o resto)
+   + (**): exponenciação
+   + parêntesis: altera a precedência das operações
 
 * Prioridade nas operações:
    + 1: parêntesis
@@ -77,13 +77,13 @@ https://docs.python.org/3/reference/expressions.html##operator-precedence
 Arquivos: [Fundamento](https://github.com/jgarconi/CursoPython/blob/master/secao02/fundamentos/variaveis.py) e [Atividade](https://github.com/jgarconi/CursoPython/blob/master/secao02/atividades/calculadora_imc.py)
 
 Anotações:
-* Regras: inicia com letra, pode ter numeros, separa com _ e é escrito com letras minúsculas
+* Regras: inicia com letra, pode ter números, separa com _ e é escrito com letras minúsculas
 
 --------------------------------------------------------------------
 
 ## Aula 7: Introdução à formatação de str
 
-Arquivos: [Fundamento](https://github.com/jgarconi/CursoPython/blob/master/secao02/fundamentos/formatacao_str.py)
+Arquivos: [Fundamento](https://github.com/jgarconi/CursoPython/blob/master/secao02/fundamentos/introd_formatacao.py)
 
 Anotações:
 * Tipos de formatação estudadas: f-strings, .format
@@ -178,3 +178,21 @@ Arquivos: [Atividade 1](https://github.com/jgarconi/CursoPython/blob/master/seca
 
 --------------------------------------------------------------------
 
+# Aula 17: Formatando valores em Python
+
+Arquivos: [Fundamento](https://github.com/jgarconi/CursoPython/blob/master/secao02/fundamentos/formatacao.py)
+
+Anotações:
+* Tipos de formatações:
+   + (:s): Texto (strings)
+   + (:d): Inteiros (int)
+   + (:f): Números de ponto flutuante (float)
+   
+* Direção da formatação:
+   + (>): Esquerda
+   + (<): Direita
+   + (^): Centro
+   
+* Padrões de formatação: 
+   + (:carácter)(direção)(quantidade)
+   + (.número)f: x casas decimais (float)
