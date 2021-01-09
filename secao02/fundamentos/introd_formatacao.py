@@ -1,5 +1,5 @@
 """
-    Aula 7: Introdução à formatação de str
+    Aula 7: Introdução à formatação de strings
     @author: Jgarconi
 
     Exemplos de formatações de strings em Python
