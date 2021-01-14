@@ -196,3 +196,13 @@ Anotações:
 * Padrões de formatação: 
    + (:carácter)(direção)(quantidade)
    + (.número)f: x casas decimais (float)
+  
+--------------------------------------------------------------------
+
+# Aula 18: Índices e fatiamento de str em Python
+
+Arquivos: [Fundamento](https://github.com/jgarconi/CursoPython/blob/master/secao02/fundamentos/fatiamento_str.py)
+
+Anotações:
+* Tipos Built-in: https://docs.python.org/3/library/stdtypes.html
+* Funções Built-in: https://docs.python.org/3/library/functions.html
