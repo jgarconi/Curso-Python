@@ -35,7 +35,8 @@ Anotações:
 
 ## Aula 4: Tipos de dados "primitivos"
 
-Arquivos: [Fundamento](https://github.com/jgarconi/CursoPython/blob/master/secao02/fundamentos/tipos_de_dados.py) e [Atividade](https://github.com/jgarconi/CursoPython/blob/master/secao02/atividades/tipos_de_dados.py)
+Arquivos: [Fundamento](https://github.com/jgarconi/CursoPython/blob/master/secao02/fundamentos/tipos_de_dados.py) e
+          [Atividade](https://github.com/jgarconi/CursoPython/blob/master/secao02/atividades/tipos_de_dados.py)
 
 Anotações:
 * Tipos de dados: 
@@ -74,7 +75,8 @@ https://docs.python.org/3/reference/expressions.html##operator-precedence
 
 ## Aula 6: Variáveis
 
-Arquivos: [Fundamento](https://github.com/jgarconi/CursoPython/blob/master/secao02/fundamentos/variaveis.py) e [Atividade](https://github.com/jgarconi/CursoPython/blob/master/secao02/atividades/calculadora_imc.py)
+Arquivos: [Fundamento](https://github.com/jgarconi/CursoPython/blob/master/secao02/fundamentos/variaveis.py) e
+          [Atividade](https://github.com/jgarconi/CursoPython/blob/master/secao02/atividades/calculadora_imc.py)
 
 Anotações:
 * Regras: inicia com letra, pode ter números, separa com _ e é escrito com letras minúsculas
@@ -99,7 +101,8 @@ Arquivos: [Atividade](https://github.com/jgarconi/CursoPython/blob/master/secao0
 
 ## Aula 9: Entrada de dados do usuário
 
-Arquivos: [Fundamento](https://github.com/jgarconi/CursoPython/blob/master/secao02/fundamentos/funcao_input.py) e [Atividade](https://github.com/jgarconi/CursoPython/blob/master/secao02/atividades/calculadora_soma.py)
+Arquivos: [Fundamento](https://github.com/jgarconi/CursoPython/blob/master/secao02/fundamentos/funcao_input.py) e
+          [Atividade](https://github.com/jgarconi/CursoPython/blob/master/secao02/atividades/calculadora_soma.py)
 
 Anotações:
 * Função input(): o dado enviado pelo usuário sempre é interpretado como str
@@ -142,7 +145,8 @@ Anotações:
 
 ## Aula 13: Quantidade de caracteres
 
-Arquivos: [Fundamento](https://github.com/jgarconi/CursoPython/blob/master/secao02/fundamentos/funcao_len.py) e [Atividade](https://github.com/jgarconi/CursoPython/blob/master/secao02/atividades/soma_caracteres.py)
+Arquivos: [Fundamento](https://github.com/jgarconi/CursoPython/blob/master/secao02/fundamentos/funcao_len.py) e 
+          [Atividade](https://github.com/jgarconi/CursoPython/blob/master/secao02/atividades/soma_caracteres.py)
 
 Anotações:
 * Função len(): funciona com diversos tipos de dados menos com os numéricos
@@ -174,7 +178,9 @@ Anotações:
 
 ## Aula 16: Desafio pratico
 
-Arquivos: [Atividade 1](https://github.com/jgarconi/CursoPython/blob/master/secao02/atividades/identifica_int.py), [Atividade 2](https://github.com/jgarconi/CursoPython/blob/master/secao02/atividades/identifica_hora.py) e [Atividade 3](https://github.com/jgarconi/CursoPython/blob/master/secao02/atividades/identifica_nome.py)
+Arquivos: [Atividade 1](https://github.com/jgarconi/CursoPython/blob/master/secao02/atividades/identifica_int.py), 
+          [Atividade 2](https://github.com/jgarconi/CursoPython/blob/master/secao02/atividades/identifica_hora.py) e 
+          [Atividade 3](https://github.com/jgarconi/CursoPython/blob/master/secao02/atividades/identifica_nome.py)
 
 --------------------------------------------------------------------
 
@@ -206,3 +212,16 @@ Arquivos: [Fundamento](https://github.com/jgarconi/CursoPython/blob/master/secao
 Anotações:
 * Tipos Built-in: https://docs.python.org/3/library/stdtypes.html
 * Funções Built-in: https://docs.python.org/3/library/functions.html
+
+--------------------------------------------------------------------
+
+# Aula 19: While - estrutura de repetição em Python
+
+Arquivos: [Fundamento](https://github.com/jgarconi/CursoPython/blob/master/secao02/fundamentos/repeticao_while.py) e
+          [Atividade](https://github.com/jgarconi/CursoPython/blob/master/secao02/atividades/calculadora_simples.py)
+
+Anotações:
+* continue: quando a linha que contém esse comando é executada, as linhas 
+            posteriores não são executadas, ou seja, pula para o próximo laço.
+* break: as linhas posteriores também não são executadas, mas nesse caso,
+         o programa não executa mais o laço.
