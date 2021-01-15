@@ -12,11 +12,13 @@ while True:
     num_2 = input("Digite outro número: ")
     operador = input("Digite um operador: ")
 
+    # Verifica se foram digitados números
     if not num_1.isnumeric() or not num_2.isnumeric():
         print("Você precisa digitar um número ou sair!")
         sair = input("Você deseja sair? [s/n] ")
         if sair == "s":
             break
+    # Se foram, realiza a operação solicitada
     else:
         num_1 = int(num_1)
         num_2 = int(num_2)
