@@ -20,4 +20,3 @@ print("Parêntesis: 5+2*10 =", 5+2*10, "!= (5+2)*10 =", (5+2)*10, "\n")
 print("Exemplo 2:")
 print("Repetição: int * str ->", 10 * "Ju")
 print("Concatenação: str + str ->", "Juliana " + "tem " + str(21) + " anos.")
-
