@@ -18,12 +18,13 @@ print("Terminou!")
 print("Exemplo 2:")
 colunas = 0
 
+# A cada loop de "colunas"
 while colunas < 5:
     linhas = 0
 
+    # Acontecem 5 loops de "linhas"
     while linhas < 5:
         print(f"({colunas},{linhas})")
         linhas += 1
 
     colunas += 1
-
