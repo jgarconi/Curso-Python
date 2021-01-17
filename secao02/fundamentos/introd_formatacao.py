@@ -2,7 +2,7 @@
     Aula 7: Introdução à formatação de strings
     @author: Jgarconi
 
-    Exemplos de formatações de strings em Python
+    Exemplos de formatações simples de strings em Python
 """
 
 nome = "Juliana"
