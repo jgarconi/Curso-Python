@@ -17,4 +17,3 @@ if idade_min <= idade <= idade_max:
     print(f"{nome} pode pegar o empréstimo!")
 else:
     print(f"{nome} NÃO pode pegar o empréstimo!")
-
