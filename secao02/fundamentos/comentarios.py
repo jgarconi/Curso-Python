@@ -17,4 +17,3 @@ print("Um comentário foi feito com \"\"\".")
 Ou dessa forma
 '''
 print("Um comentário foi feito com \'\'\'.")
-
