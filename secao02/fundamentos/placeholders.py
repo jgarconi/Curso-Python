@@ -14,4 +14,3 @@ if valor:
     pass
 else:
     print("Olá!")
-
