@@ -17,4 +17,3 @@ elif quant <= 6:
     print("Seu nome é normal!")
 else:
     print("Seu nome é grande!")
-
