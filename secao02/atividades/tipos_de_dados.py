@@ -2,8 +2,8 @@
     Aula 4: Tipos de dados "primitivos"
     @author: Jgarconi
 
-    Atividade: Escrever nome, idade, altura, e maioridade e mostrar os
-               respectivos tipos de dados
+    Atividade: Escrever nome, idade, altura, e maioridade e mostrar
+               os respectivos tipos de dados
 """
 
 print("Nome:", "Juliana", type("Juliana"))
