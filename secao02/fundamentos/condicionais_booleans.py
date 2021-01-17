@@ -15,4 +15,3 @@ elif False:
     print("Também é falso")
 else:
     print("Todas são falsas")
-
