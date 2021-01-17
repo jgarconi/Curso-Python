@@ -11,4 +11,3 @@ idade = input("Qual a sua idade? ")
 nascimento = 2020 - int(idade)
 
 print(f"{nome} tem {idade} anos e nasceu em {nascimento}.")
-
