@@ -26,6 +26,8 @@ else:
     print("Você foi cadastrado no sistema.")
 
 # Exemplo 3: Soma do numero de caracteres
+print("Exemplo 3:")
+
 str1 = input("Digite algo: ")
 str2 = input("Digite outra coisa: ")
 
