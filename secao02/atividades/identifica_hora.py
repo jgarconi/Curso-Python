@@ -20,6 +20,4 @@ if hora.isdigit():
     else:
         print("O horário deve estar entre 0 e 23.\n")
 else:
-    print("Por favor, digite um horário válido.\n")
-
-
+    print("Por favor, digite um horário válido entre 0 e 23.\n")
