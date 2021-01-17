@@ -2,7 +2,7 @@
     Aula 2: O comando print
     @author: Jgarconi
 
-    Exemplos do comando print em Pyhton
+    Exemplos de usos simples do comando print em Pyhton
 """
 
 # Exemplo 1 : Strings e número
@@ -16,4 +16,3 @@ print('Joao', 'e', 'Maria')
 print('O CPF é:', end=' ')
 print('123', '456', '789', sep='.', end='-')
 print('00')
-
