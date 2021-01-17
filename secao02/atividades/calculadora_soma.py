@@ -11,4 +11,3 @@ num_2 = input("Digite outro número: ")
 result = int(num_1) + int(num_2)
 
 print(f"A soma de {num_1} com {num_2} é igual à {result}.")
-
