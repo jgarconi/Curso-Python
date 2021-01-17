@@ -16,4 +16,3 @@ if usuario_bd == usuario and senha_bd == senha:
     print(f"Bem vindo(a), {usuario_bd}!")
 else:
     print("Usuário ou senha incorretos, tente novamente!")
-
