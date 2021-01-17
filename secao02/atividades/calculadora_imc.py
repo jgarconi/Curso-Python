@@ -14,4 +14,3 @@ peso = 112
 imc = peso / altura**2
 
 print(nome, "tem", idade, "anos de idade e seu IMC é", imc)
-
