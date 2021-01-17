@@ -17,5 +17,4 @@ try:
     else:
         print(f"{num} é ímpar!")
 except:
-    print("{num} não é um número inteiro. Tente novamente.")
-
+    print(f"{num} não é um número inteiro. Tente novamente.")
