@@ -33,4 +33,3 @@ try:
 # Caso não funcione, indica um erro:
 except:
     print("Não foi possível realizar a conta!")
-
