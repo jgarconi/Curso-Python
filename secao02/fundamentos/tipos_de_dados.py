@@ -21,4 +21,3 @@ print('Juliana', type('Juliana'), bool('Juliana'), "\n")
 # Exemplo 3: Converter um tipo de dado em outro -> typecasting
 print("Exemplo 3:")
 print('10', type('10'), type(int('10')), "\n")
-
