@@ -7,7 +7,7 @@
                Criar uma variável com o ano atual (int)
                Obter o ano de nascimento da pessoa (usar idade e o ano
                atual)
-               Obter o IMC da pessoa com 2 casas decimais (usar peso e 
+               Obter o IMC da pessoa com 2 casas decimais (usar peso e
                altura)
                Exibir um texto com todos os valores na tela
 """
