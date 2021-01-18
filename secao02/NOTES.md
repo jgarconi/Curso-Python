@@ -215,9 +215,9 @@ Anotações:
 
 --------------------------------------------------------------------
 
-# Aula 19: While - estrutura de repetição em Python
+# Aula 19: While - Estrutura de repetição em Python
 
-Arquivos: [Fundamento](https://github.com/jgarconi/CursoPython/blob/master/secao02/fundamentos/repeticao_while.py) e
+Arquivos: [Fundamento](https://github.com/jgarconi/CursoPython/blob/master/secao02/fundamentos/laco_while.py) e
           [Atividade](https://github.com/jgarconi/CursoPython/blob/master/secao02/atividades/calculadora_simples.py)
 
 Anotações:
@@ -225,3 +225,25 @@ Anotações:
             posteriores não são executadas, ou seja, pula para o próximo laço.
 * break: as linhas posteriores também não são executadas, mas nesse caso,
          o programa não executa mais o laço.
+  
+--------------------------------------------------------------------
+
+# Aula 20: While/Else - Repetição com acumuladores em Python
+
+Arquivos: [Fundamento](https://github.com/jgarconi/CursoPython/blob/master/secao02/fundamentos/laco_while_else.py)
+
+--------------------------------------------------------------------
+
+# Aula 21: While - Iteração de str com while em Python
+
+Arquivos: [Fundamento](https://github.com/jgarconi/CursoPython/blob/master/secao02/fundamentos/laco_while_e_str.py)
+
+--------------------------------------------------------------------
+
+# Aula 22: For in - Estrutura de repetição em Python
+
+Arquivos: [Fundamento](https://github.com/jgarconi/CursoPython/blob/master/secao02/fundamentos/laco_for_in.py)
+
+Anotação:
+* while : executa ações sem um fim definido
+* for in: executa ações com um fim definido
