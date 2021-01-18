@@ -1,5 +1,5 @@
 """
-    Aula 19: While - estrutura de repetição em Python
+    Aula 19: While - Estrutura de repetição em Python
     @author: Jgarconi
 
     Exemplos utilizando a estrutura de repetição while
