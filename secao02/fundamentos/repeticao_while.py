@@ -12,7 +12,7 @@ x = 0
 while x < 5:
     print(x)
     x = x + 1
-print("Terminou!")
+print("Terminou!\n")
 
 # Exemplo 2: loop dentro de loop
 print("Exemplo 2:")
