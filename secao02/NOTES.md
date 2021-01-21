@@ -7,11 +7,11 @@ Arquivos: [Fundamento](https://github.com/jgarconi/CursoPython/blob/master/secao
 Anotações:
 * Replicar linhas no pycharm: Ctrl + D
 * Abrir e fechar comentários com aspas simples ou duplas servem para
-  documentação, mas também funcionam como comentários
+  documentação, mas também funcionam como comentários.
 
 ---------------------------------------------------------------------
 
-## Aula 2 : O comando print
+## Aula 2: O comando print
 
 Arquivos: [Fundamento](https://github.com/jgarconi/CursoPython/blob/master/secao02/fundamentos/comando_print.py)
 
@@ -33,7 +33,7 @@ Anotações:
 
 ---------------------------------------------------------------------
 
-## Aula 4: Tipos de dados "primitivos"
+## Aula 4: Tipos de dados “primitivos”
 
 Arquivos: [Fundamento](https://github.com/jgarconi/CursoPython/blob/master/secao02/fundamentos/tipos_de_dados.py) e
           [Atividade](https://github.com/jgarconi/CursoPython/blob/master/secao02/atividades/tipos_de_dados.py)
@@ -88,7 +88,7 @@ Anotações:
 Arquivos: [Fundamento](https://github.com/jgarconi/CursoPython/blob/master/secao02/fundamentos/introd_formatacao.py)
 
 Anotações:
-* Tipos de formatação estudadas: f-strings, .format
+* Tipos de formatações estudadas: f-strings, .format
 * :.xf : formata o numero com x casas decimais, exemplo: peso = 75.8888 -> peso:.2f = 75.89
 
 --------------------------------------------------------------------
@@ -109,7 +109,7 @@ Anotações:
 
 --------------------------------------------------------------------
 
-## Aula 10: if, elif e esle + booleans
+## Aula 10: if, elif e else + booleans
 
 Arquivos: [Fundamento](https://github.com/jgarconi/CursoPython/blob/master/secao02/fundamentos/condicional_booleans.py)
 
@@ -118,12 +118,12 @@ Anotações:
 
 --------------------------------------------------------------------
 
-## Aula 11: if, elif e esle + operadores relacionais
+## Aula 11: if, elif e else + operadores relacionais
 
 Arquivos: [Fundamento](https://github.com/jgarconi/CursoPython/blob/master/secao02/fundamentos/condicional_relacionais.py)
 
 Anotações:
-* O resultados das comparações é um valor booleano
+* Os resultados das comparações é um valor booleano
 * Tipos de operadores:
    + (==) : igual á
    + (>)  : maior que
@@ -134,7 +134,7 @@ Anotações:
 
 -------------------------------------------------------------------
 
-## Aula 12: if, elif e esle + operadores lógicos
+## Aula 12: if, elif e else + operadores lógicos
 
 Arquivos: [Fundamento](https://github.com/jgarconi/CursoPython/blob/master/secao02/fundamentos/condicional_logicos.py)
 
@@ -162,8 +162,8 @@ Anotações:
 * Built-in: https://docs.python.org/3/library/stdtypes.html
 * Resolve o problema de float não ser considerado número: https://github.com/luizomf/check-numbers-python/blob/master/chk_numbers.py
 * Funções para str: 
-   + isnumeric() : checa se os carácteres são números
-   + isdigit()   : checa se os carácteres sao digitos
+   + isnumeric() : checa se os caracteres são números
+   + isdigit()   : checa se os caracteres são dígitos
 
 -------------------------------------------------------------------
 
@@ -172,7 +172,7 @@ Anotações:
 Arquivos: [Fundamento](https://github.com/jgarconi/CursoPython/blob/master/secao02/fundamentos/placeholders.py)
 
 Anotações:
-* Usar pass ou ... tem o mesmo efeito de "segurar" parte do código para uma futura utilização
+* Usar pass ou (...) tem o mesmo efeito de “segurar” parte do código para uma futura utilização
 
 -------------------------------------------------------------------
 
@@ -247,3 +247,16 @@ Arquivos: [Fundamento](https://github.com/jgarconi/CursoPython/blob/master/secao
 Anotação:
 * while : executa ações sem um fim definido
 * for in: executa ações com um fim definido
+
+--------------------------------------------------------------------
+
+# Aula 23: Listas em Python
+
+Arquivos: [Fundamento](https://github.com/jgarconi/CursoPython/blob/master/secao02/fundamentos/listas.py) e
+          [Atividade](https://github.com/jgarconi/CursoPython/blob/master/secao02/atividades/jogo_adivinhacao.py)
+
+Anotações:
+* O acesso e o fatiamento das listas é semelhante ao ocorre com as strings.
+* .extend vs .append: 
+   + (.extend): adiciona novos itens à lista ampliando o tamanho da mesma de acordo com o que foi adicionado
+   + (.append): adiciona todos os novos elementos na última posição da lista
