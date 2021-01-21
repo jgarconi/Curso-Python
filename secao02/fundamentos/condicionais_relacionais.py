@@ -1,5 +1,5 @@
 """
-    Aula 11: if, elif e esle + operadores relacionais
+    Aula 11: if, elif e else + operadores relacionais
     @author: Jgarconi
 
     Exemplo de condicionais com operadores relacionais
