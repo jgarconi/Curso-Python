@@ -11,7 +11,7 @@ idade = int(input("Qual a sua idade? "))
 
 # Limites de idade para pegar um empréstimo
 idade_min = 18
-idade_max = 30
+idade_max = 40
 
 if idade_min <= idade <= idade_max:
     print(f"{nome} pode pegar o empréstimo!")

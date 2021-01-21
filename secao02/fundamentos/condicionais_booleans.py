@@ -1,5 +1,5 @@
 """
-    Aula 10: if, elif e esle + booleans
+    Aula 10: if, elif e else + booleans
     @author: Jgarconi
 
     Exemplo de condicionais com dados booleanos

@@ -1,5 +1,5 @@
 """
-    Aula 12: if, elif e esle + operadores lógicos
+    Aula 12: if, elif e else + operadores lógicos
     @author: Jgarconi
 
     Exemplo de condicionais com operadores lógicos
