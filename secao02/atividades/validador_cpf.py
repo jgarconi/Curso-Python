@@ -1,5 +1,5 @@
 """
-    Aula 28: Desafio - valide um CPF
+    Aula 28: Validador de CPF
     @author: Jgarconi
 
     Atividade: construir um validador de CPF utilizando os
