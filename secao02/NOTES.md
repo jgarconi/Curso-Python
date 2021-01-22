@@ -287,6 +287,12 @@ Arquivos: [Atividade](https://github.com/jgarconi/CursoPython/blob/master/secao0
 
 --------------------------------------------------------------------
 
-# Aula 28: Desafio - valide um CPF
+# Aula 28: Validador de CPF
 
-Arquivos: [Atividade](https://github.com/jgarconi/CursoPython/blob/master/secao02/atividades/valida_cpf.py)
+Arquivos: [Atividade](https://github.com/jgarconi/CursoPython/blob/master/secao02/atividades/validador_cpf.py)
+
+--------------------------------------------------------------------
+
+# Aula 29: Gerador de CPF
+
+Arquivos: [Atividade](https://github.com/jgarconi/CursoPython/blob/master/secao02/atividades/gerador_cpf.py)
