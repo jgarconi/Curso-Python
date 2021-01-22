@@ -260,3 +260,33 @@ Anotações:
 * .extend vs .append: 
    + (.extend): adiciona novos itens à lista ampliando o tamanho da mesma de acordo com o que foi adicionado
    + (.append): adiciona todos os novos elementos na última posição da lista
+
+--------------------------------------------------------------------
+
+# Aula 24: Laço for/else em Python
+
+Arquivos: [Fundamento](https://github.com/jgarconi/CursoPython/blob/master/secao02/fundamentos/laco_for_else.py)
+
+--------------------------------------------------------------------
+
+# Aula 25: Funções split, join e enumerate em Python
+
+Arquivos: [Fundamento](https://github.com/jgarconi/CursoPython/blob/master/secao02/fundamentos/split_join_enumerate.py)
+
+--------------------------------------------------------------------
+
+# Aula 26: Desempacotamento de listas em Python
+
+Arquivos: [Fundamento](https://github.com/jgarconi/CursoPython/blob/master/secao02/fundamentos/listas_desempacotamento.py)
+
+--------------------------------------------------------------------
+
+# Aula 27: Desafio de contadores
+
+Arquivos: [Atividade](https://github.com/jgarconi/CursoPython/blob/master/secao02/atividades/contadores.py)
+
+--------------------------------------------------------------------
+
+# Aula 28: Desafio - valide um CPF
+
+Arquivos: [Atividade](https://github.com/jgarconi/CursoPython/blob/master/secao02/atividades/valida_cpf.py)
