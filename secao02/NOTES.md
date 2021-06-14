@@ -1,4 +1,4 @@
-## Notas de aula
+# Notas de aula
 
 ## Aula 1: Comentários de código em Python
 
@@ -184,7 +184,7 @@ Arquivos: [Atividade 1](https://github.com/jgarconi/CursoPython/blob/master/seca
 
 --------------------------------------------------------------------
 
-# Aula 17: Formatando valores em Python
+## Aula 17: Formatando valores em Python
 
 Arquivos: [Fundamento](https://github.com/jgarconi/CursoPython/blob/master/secao02/fundamentos/formatacao.py)
 
@@ -205,7 +205,7 @@ Anotações:
   
 --------------------------------------------------------------------
 
-# Aula 18: Índices e fatiamento de str em Python
+## Aula 18: Índices e fatiamento de str em Python
 
 Arquivos: [Fundamento](https://github.com/jgarconi/CursoPython/blob/master/secao02/fundamentos/fatiamento_str.py)
 
@@ -215,7 +215,7 @@ Anotações:
 
 --------------------------------------------------------------------
 
-# Aula 19: While - Estrutura de repetição em Python
+## Aula 19: While - Estrutura de repetição em Python
 
 Arquivos: [Fundamento](https://github.com/jgarconi/CursoPython/blob/master/secao02/fundamentos/laco_while.py) e
           [Atividade](https://github.com/jgarconi/CursoPython/blob/master/secao02/atividades/calculadora_simples.py)
@@ -228,19 +228,19 @@ Anotações:
   
 --------------------------------------------------------------------
 
-# Aula 20: While/Else - Repetição com acumuladores em Python
+## Aula 20: While/Else - Repetição com acumuladores em Python
 
 Arquivos: [Fundamento](https://github.com/jgarconi/CursoPython/blob/master/secao02/fundamentos/laco_while_else.py)
 
 --------------------------------------------------------------------
 
-# Aula 21: While - Iteração de str com while em Python
+## Aula 21: While - Iteração de str com while em Python
 
 Arquivos: [Fundamento](https://github.com/jgarconi/CursoPython/blob/master/secao02/fundamentos/laco_while_e_str.py)
 
 --------------------------------------------------------------------
 
-# Aula 22: For in - Estrutura de repetição em Python
+## Aula 22: For in - Estrutura de repetição em Python
 
 Arquivos: [Fundamento](https://github.com/jgarconi/CursoPython/blob/master/secao02/fundamentos/laco_for_in.py)
 
@@ -250,7 +250,7 @@ Anotação:
 
 --------------------------------------------------------------------
 
-# Aula 23: Listas em Python
+## Aula 23: Listas em Python
 
 Arquivos: [Fundamento](https://github.com/jgarconi/CursoPython/blob/master/secao02/fundamentos/listas.py) e
           [Atividade](https://github.com/jgarconi/CursoPython/blob/master/secao02/atividades/jogo_adivinhacao.py)
@@ -263,36 +263,36 @@ Anotações:
 
 --------------------------------------------------------------------
 
-# Aula 24: Laço for/else em Python
+## Aula 24: Laço for/else em Python
 
 Arquivos: [Fundamento](https://github.com/jgarconi/CursoPython/blob/master/secao02/fundamentos/laco_for_else.py)
 
 --------------------------------------------------------------------
 
-# Aula 25: Funções split, join e enumerate em Python
+## Aula 25: Funções split, join e enumerate em Python
 
 Arquivos: [Fundamento](https://github.com/jgarconi/CursoPython/blob/master/secao02/fundamentos/split_join_enumerate.py)
 
 --------------------------------------------------------------------
 
-# Aula 26: Desempacotamento de listas em Python
+## Aula 26: Desempacotamento de listas em Python
 
 Arquivos: [Fundamento](https://github.com/jgarconi/CursoPython/blob/master/secao02/fundamentos/listas_desempacotamento.py)
 
 --------------------------------------------------------------------
 
-# Aula 27: Desafio de contadores
+## Aula 27: Desafio de contadores
 
 Arquivos: [Atividade](https://github.com/jgarconi/CursoPython/blob/master/secao02/atividades/contadores.py)
 
 --------------------------------------------------------------------
 
-# Aula 28: Validador de CPF
+## Aula 28: Validador de CPF
 
 Arquivos: [Atividade](https://github.com/jgarconi/CursoPython/blob/master/secao02/atividades/validador_cpf.py)
 
 --------------------------------------------------------------------
 
-# Aula 29: Gerador de CPF
+## Aula 29: Gerador de CPF
 
 Arquivos: [Atividade](https://github.com/jgarconi/CursoPython/blob/master/secao02/atividades/gerador_cpf.py)
