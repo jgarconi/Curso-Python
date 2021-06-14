@@ -6,7 +6,7 @@ Notas de aula e atividades do curso de [Pyhton3](https://www.udemy.com/course/py
 
   * [Seção 01](https://www.udemy.com/course/python-3-do-zero-ao-avancado/): Introdução - Preparação do ambiente de desenvolvimento
   * [Seção 02](https://github.com/jgarconi/CursoPython/tree/master/secao02): Python Básico - Lógica de programação
-  * Seção 03: Python Intermediário - Programação procedural
+  * [Seção 03](https://github.com/jgarconi/CursoPython/tree/master/secao03): Python Intermediário - Programação procedural
   * Seção 04: Python - Introdução à programação orientada a objetos
   * Seção 05: Módulos úteis do/para o Python
   * Seção 06: PyQT5 - Interface gráfica no Python
