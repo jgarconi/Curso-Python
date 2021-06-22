@@ -13,26 +13,33 @@
 def helloworld():
     return 'Hello World!'
 
-def principal(funcao):  # Recebe uma funcao e
-    return funcao()     # retorna a execução dela
+def principal(funcao):
+    """
+    Recebe: uma função
+    Retorna: a execução da função recebida
+    """
+    return funcao()
 
 saudacao = principal(helloworld)
 print('Atividade 1:')
 print(saudacao)
 print()
 
-
 def diz_ola(nome):
     return f'Olá {nome}'
 
-def ola_mundo(nome, saudacao):
-    return f'{saudacao} {nome}'
+def ola_mundo(nome, saudacao1):
+    return f'{saudacao1} {nome}'
 
-def func_princ(funcao, *args, **kwargs):  # Recebe uma função pra ser executada
-    return funcao(*args, **kwargs)        # e os parametros dessa função
+def func_princ(funcao, *args, **kwargs):
+    """
+    Recebe: uma função e seus argumentos (quantidade indefinida)
+    Retorna: a execução da função recebida usando os argumentos dados
+    """
+    return funcao(*args, **kwargs)
 
-saudacao = func_princ(ola_mundo, 'juliana', 'Oi')
-saudacao2 = func_princ(diz_ola, 'juliana')
+saudacao2 = func_princ(ola_mundo, 'Juliana', 'Hello')
+saudacao3 = func_princ(diz_ola, 'Juliana')
 print('Atividade 2:')
-print(saudacao)
 print(saudacao2)
+print(saudacao3)
